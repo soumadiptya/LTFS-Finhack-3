@@ -1,6 +1,7 @@
 # LTFS Fin Hack 3
 <img src="logo.png" alt="Logo">
-## Problem Statement
+## Problem Statement  
+
 As a Financial Institution LTFS wants to predict which customers will avail Top Up loans on their existing loans and at what point during their Loan Tenures will they do so. This is a Multi Class classification Problem with the following available class labels:-  
 * 12-18 Months
 * 18-24 Months
